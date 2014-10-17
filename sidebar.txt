@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nuz:home|Door43 (nuz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nuz|d43-nuz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nuz/archive/master.zip|d43-nuz.zip]]
+
+**Recent Changes**
+{{changes>ns = nuz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nuz|Ethnologue data]]
+
